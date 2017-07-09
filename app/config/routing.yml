@@ -1,0 +1,4 @@
+designer_editor:
+    resource: "@DesignerEditorBundle/Resources/config/routing.yml"
+    prefix:   /
+
