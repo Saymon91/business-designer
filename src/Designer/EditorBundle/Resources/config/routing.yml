@@ -1,0 +1,3 @@
+designer_editor_homepage:
+    path:     /
+    defaults: { _controller: DesignerEditorBundle:Default:index }
